@@ -13,5 +13,5 @@ spec:
         app: k8s-app
     spec:
       containers:
-      - image: shay88/k8s-node-app:v2
+      - image: shay88/k8s-node-app
         name: k8s-app-container
